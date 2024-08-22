@@ -5,8 +5,8 @@ I'm Michal.
 ## About Me
 
 - 🎓 I’m currently studying Computer Science at WSEI University.
-- 💻 I mainly learning code in Python, Java, and C/C++.
-- 🌱 I’m currently deepening my knowledge in data analysis.
+- 💻 Main code in Python, Java, and C/C++.
+- 🌱 I’m currently deepening my knowledge in data analysis. (SQL, Excel etc.)
 
 ## My Projects
 
